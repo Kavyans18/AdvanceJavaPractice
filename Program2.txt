@@ -1,0 +1,5 @@
+Class Sample2 {
+	public void m2() {
+		System.out.println("From m2 method of Sample2");
+	}
+}
